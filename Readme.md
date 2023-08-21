@@ -52,8 +52,6 @@
 
 ![flow2 drawio](https://github.com/khang77/ThucHanhKiemThuDiDong/assets/92577611/5038c603-cee9-445a-b0d8-3283f6200be4)
 
-![flow2 drawio](https://github.com/khang77/ThucHanhKiemThuDiDong_Testcase_Android/assets/92577611/9d19ff94-016f-4094-b18c-758306028643)
-
 ***
 
 |💡 Đề xuất cải tiến chức năng của app 💡 |
